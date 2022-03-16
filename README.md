@@ -1,1 +1,1 @@
-# express-calculator
+# simple calculator from iths express bootcamp
